@@ -1,0 +1,3 @@
+C:\Users\Samsung\Desktop\UdemyC#\C#\AbstratoAprender\AbstratoAprender\obj\Debug\AbstratoAprender.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\UdemyC#\C#\AbstratoAprender\AbstratoAprender\obj\Debug\AbstratoAprender.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samsung\Desktop\UdemyC#\C#\AbstratoAprender\AbstratoAprender\obj\Debug\AbstratoAprender.csproj.CoreCompileInputs.cache
